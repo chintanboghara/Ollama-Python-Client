@@ -4,8 +4,8 @@ def main():
     # Initialize the Ollama client
     client = ollama.Client()
 
-    # Define the model and the input prompt
-    model = "llama2"  # Replace with your model name
+    # Define the model (updated to the advanced custom assistant) and the input prompt
+    model = "custom-assistant"  # This should match the model name created with your advanced Modelfile
     prompt = "What is Python?"
 
     try:
