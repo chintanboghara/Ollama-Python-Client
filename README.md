@@ -27,8 +27,8 @@ Before running the client, ensure you have the following:
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/chintanboghara/Ollama-Python-Client.git
+    cd Ollama-Python-Client
     ```
 
 2.  **Install the required Python dependencies:**
